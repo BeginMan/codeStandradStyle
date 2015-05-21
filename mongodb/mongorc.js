@@ -43,3 +43,5 @@ prompt = (function(){
 	return "😊 > "
 })();
 
+// 定制编辑器来编辑变量
+EDITOR="/usr/bin/vim"
